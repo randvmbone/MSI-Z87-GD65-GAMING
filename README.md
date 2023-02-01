@@ -9,7 +9,7 @@ OpenCore EFI for MSI Z87-GD65 GAMING
 * **MOBO:** MSI Z87-GD65 GAMING
 * **RAM:** G.Skill DDR3-2400 16GB (2x8GB)
 * **CPU:** Intel Core i5-4690K
-* **GPU:** Intel HD Graphics 4600
+* **GPU:** AMD Radeon RX 580 8GB
 * **SSD:** Crucial MX500 500GB
 * **WIFI:** Fenvi FV-T919
 
@@ -30,6 +30,7 @@ OpenCore EFI for MSI Z87-GD65 GAMING
 ### macOS Support
 | Version   | macOS | Download |
 | --------: | :---- | :------- |
+| 13.2 | Ventura | [Mac App Store](https://apps.apple.com/app/macos-ventura/id1638787999?mt=12) |
 | 11.7.2 | Big Sur | [Mac App Store](https://apps.apple.com/app/macos-big-sur/id1526878132?mt=12) |
 | 10.15.7 | Catalina | [Mac App Store](https://apps.apple.com/app/macos-catalina/id1466841314?mt=12) |
 | 10.14.6 | Mojave | [Mac App Store](https://apps.apple.com/app/macos-mojave/id1398502828?mt=12) |
